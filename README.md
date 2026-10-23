@@ -30,6 +30,8 @@ ArcadeGames是一个基于CH585开发的支持USB 2.0高速模式的USB HID游�
 
 实际在Windows 11下无驱动测试了osu!lazer的mania 4K模式，即使按键板的手感很差，但是实际游戏体验还是比一般的USB键盘好很多。
 
+目前使用的是GPIO B的Pin 4-7按键，可根据需要调整。
+
 ## 如何构建
 
 这是一个使用WCH官方IDE——[MounRiver Studio](https://www.mounriver.com/)创建的工程，直接使用MounRiver Studio打开即可编译和烧录。
