@@ -30,7 +30,9 @@ The demo was tested on Windows 11 in osu!lazer's mania 4K mode, with no addition
 
 The project was created with [MounRiver Studio](https://www.mounriver.com/), WCH's official IDE. Open the project in MounRiver Studio to build and flash the firmware.
 
-> **Flashing tips**
+> **Build and flashing tips**
+>
+> The project files use UTF-8 encoding. Set MounRiver Studio to use UTF-8 instead of its default GBK encoding.
 >
 > CH58X chips support USB and UART flashing out of the box. Hold down the Boot button while powering on the board to enter bootloader mode.
 >

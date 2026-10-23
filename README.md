@@ -1,6 +1,6 @@
 # ArcadeGames
 
-中文|[English](./README_en.md)
+中文 | [English](./README_en.md)
 
 ## 这是什么？
 
@@ -36,8 +36,8 @@ ArcadeGames是一个基于CH585开发的支持USB 2.0高速模式的USB HID游�
 
 > 踩坑提示
 > 
+> 文件使用UTF-8编码，而非MRS默认的GBK编码，请注意。
+> 
 > CH58X系列芯片默认开启USB和串口烧录（按住Boot并打开开关即可）
 > 
 > 但是WCH Link的二线烧录需要先通过WCH ISP工具按住Boot连接并解锁才可使用
-> 
-> 
