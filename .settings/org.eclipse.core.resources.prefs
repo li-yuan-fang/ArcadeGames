@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//StdPeriphDriver/inc/CH585SFR.h=GBK
+encoding//src/arcade_keyboard.c=GBK
+encoding//src/arcade_keyboard.h=UTF-8
+encoding//src/arcade_queue.c=GBK
+encoding//src/arcade_queue.h=UTF-8
+encoding//src/arcade_usb.h=UTF-8
+encoding//src/arcade_usb_hs.h=UTF-8
